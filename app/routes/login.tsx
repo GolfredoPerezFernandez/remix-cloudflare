@@ -98,9 +98,9 @@ console.log(actionData)
         
         </div>
         <LabelInputContainer className="mb-4">
-          <Label htmlFor="email">Email Address</Label>
+          <Label htmlFor="email2">Email Address</Label>
           
-          <Input id="email" 
+          <Input id="email2" 
           name="email" 
           value={formData.email}
           onChange={e => handleInputChange(e, 'email')} 

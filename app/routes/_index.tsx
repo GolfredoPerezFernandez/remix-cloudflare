@@ -339,9 +339,7 @@ await setNewSessionId(newsessionId)
               result_format: 'mp4'
             },
             'driver_url': 'bank://lively/',
-            'config': {
-              'stitch': true,
-            }
+          
           })
         });
         console.log("talkResponse ", await talkResponse.json());
