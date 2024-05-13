@@ -17,9 +17,9 @@
   "dependencies": {
     "@prisma/client": "^5.13.0",
     "@radix-ui/react-label": "^2.0.2",
-    "@remix-run/cloudflare": "^2.8.1",
-    "@remix-run/cloudflare-pages": "^2.8.1",
-    "@remix-run/node": "latest",
+    "@remix-run/cloudflare-pages": "^2.9.2",
+    "@remix-run/node": "^2.9.2",
+    "@remix-run/node-pages": "^2.8.1",
     "@remix-run/react": "^2.8.1",
     "@remix-run/server-runtime": "latest",
     "@vercel/analytics": "^1.2.2",
